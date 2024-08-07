@@ -29,7 +29,7 @@ export default function NavAndHead(){
                 <button className="displayButton">Find Centers</button>
                 </div>
                 
-                <img className="imgATg" src="https://s3-alpha-sig.figma.com/img/7804/e5f2/776e41d6b125a1ff07effac37d6ff11b?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YAkxFZ4is4A-tVC0Ez~pGhJC4BYI5hEugUlx9vvR~-hB-Y8Y-5t7LTEgwerRuFtECcARtSuvVrITeh-Zhaais7LRKy-cVrvjmSNEjdqL0dpjDQGY-4v0jsBAL-5eJd~KC2pa3zK4VooWmTR2DVW0PTJxqFmsItexexvVeFosiBjARo-YVRIUOvQGtO6sLRfVNlYirESy~~KzCKv4HuJwz4Plh~Qtt7JiyS6pv7cEofdriLwMp630-sLv6AxxnejS5vR8i6PD0N5oFG~Dccsk90gRs571gfcoX8olEKB4uoLU5kalLacvjR2rwSkCtHlNc-HlYqmVPRLyF6QqNzLrhA__" alt="doctors" />
+                <img className="imgATg"src="https://s3-alpha-sig.figma.com/img/7804/e5f2/776e41d6b125a1ff07effac37d6ff11b?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YAkxFZ4is4A-tVC0Ez~pGhJC4BYI5hEugUlx9vvR~-hB-Y8Y-5t7LTEgwerRuFtECcARtSuvVrITeh-Zhaais7LRKy-cVrvjmSNEjdqL0dpjDQGY-4v0jsBAL-5eJd~KC2pa3zK4VooWmTR2DVW0PTJxqFmsItexexvVeFosiBjARo-YVRIUOvQGtO6sLRfVNlYirESy~~KzCKv4HuJwz4Plh~Qtt7JiyS6pv7cEofdriLwMp630-sLv6AxxnejS5vR8i6PD0N5oFG~Dccsk90gRs571gfcoX8olEKB4uoLU5kalLacvjR2rwSkCtHlNc-HlYqmVPRLyF6QqNzLrhA__" alt="doctors" />
             </header>
         </div>
     </div>)
