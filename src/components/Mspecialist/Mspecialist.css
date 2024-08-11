@@ -34,17 +34,16 @@
     align-items: center;
 
 }
-.imagg1{
-    width: 350px;
-    height: 395px;
-    padding: 30px 17px 0px 17px;
-    border-radius: 250px 250px 4px 4px;
-    background: linear-gradient(144.2deg, #E1F3FF 0%, #2AA7FF 100%);
 
-}
 .imagg2{
     width: 19.75rem;
     height: 22.8rem;
+    padding: 30px 17px 0px 17px;
+    border-radius: 250px 250px 4px 4px;
+    background: linear-gradient(144.2deg, #E1F3FF 0%, #2AA7FF 100%);
+    box-shadow: 0px 15px 55px -10px #00000017;
+    
+
 
 }
 .Doctor{
