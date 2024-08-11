@@ -4,6 +4,7 @@ import NavAndHead from "./components/NavandHead/NavandHead.jsx";
 import SearchBar from "./components/Searchwind/Searchwind.jsx";
 import Specialization from "./components/Specialization/specialization.jsx";
 import MSpeciaist from "./components/Mspecialist/Mspecialist.jsx";
+import PatientCAring from "./components/PatientCaring/patientCaring.jsx"
 function App() {
   return (
     <div className="App">
@@ -12,6 +13,7 @@ function App() {
       <Card />
       <Specialization />
       <MSpeciaist />
+      <PatientCAring />
     </div>
   );
 }
