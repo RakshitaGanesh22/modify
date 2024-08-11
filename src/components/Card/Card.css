@@ -1,0 +1,19 @@
+.cardStyle{
+    width: 25rem;
+    height: 12.4rem;
+    border-radius:1.25rem;
+    background-color: black;
+    position: absolute;
+    top: -17.5rem;
+}
+.mainClass{
+    height:25rem;
+    width: 100%;
+    position: absolute;
+   display: grid;
+   gap: -5rem;
+}
+.pagination{
+    position: relative;
+    top: -2rem;
+}
