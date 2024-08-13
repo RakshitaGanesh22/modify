@@ -1,0 +1,118 @@
+.MainDivClass{
+    display: flex;
+    flex-direction: column;
+    height: 40rem;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 98rem;
+}
+.MainseconddivClass{
+    flex-direction: column;
+    height: 38rem;
+    width: 76rem;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+.answer{
+    font-family: 'Poppins',sans-serif !important;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+    color: #2AA7FF;
+
+}
+.asked{
+    font-family: 'Poppins',sans-serif !important;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 67px;
+    text-align: center;
+    color: #1B3C74;
+
+}
+.secondMAinCLass{
+    display: flex;
+    gap: 10rem;
+    position: relative;
+    left: 5rem;
+    top:-8rem;
+}
+.imageStyyl{
+    width: 31.25rem;
+    height: 30rem;
+    border-radius: 0.5rem;
+    border: 10px solid #FFFFFF;
+    box-shadow: 0px 15px 55px -10px #00000017;
+
+}
+.AccordianStyling{
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    outline: inherit;
+    box-shadow: none;
+    height: 31.25rem;
+    width: 30.25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.accordianSubStyling{
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    outline: inherit;
+    box-shadow: none;
+    width: 100%;
+    height: 4.4rem;
+
+
+
+}
+.styleIcon{
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    outline: inherit;
+    box-shadow: none;
+    color: #2AA7FF;
+    font-size: 18px;
+    font-weight: 1000 !important;
+    line-height: 18px;
+    text-align: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: none;
+
+}
+.StyleThis{
+    font-family: 'Poppins',sans-serif !important;
+    font-size: 18px;
+    font-weight: 900 !important;
+    line-height: 30px;
+    text-align: left;
+    color: #1B3C74;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: none;
+}
+.StyleIt{
+    position: relative;
+    top: 15rem;
+    left: -34rem;
+    z-index: 1;
+}

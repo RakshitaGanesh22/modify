@@ -7,6 +7,9 @@ import MSpeciaist from "./components/Mspecialist/Mspecialist.jsx";
 import PatientCAring from "./components/PatientCaring/patientCaring.jsx";
 import BlogsAndNews from "./components/BlogandNews/BlogandNews.jsx";
 import Family from "./components/Family/Family.jsx";
+import FAQ from "./components/FAQ/FAQ.jsx";
+import DownloadApp from "./components/DownloadApp/DownloadApp.jsx";
+import Footer from './components/Footer/Footer.jsx';
 function App() {
   return (
     <div className="App">
@@ -18,6 +21,9 @@ function App() {
       <PatientCAring />
       <BlogsAndNews />
       <Family />
+      <FAQ />
+      <DownloadApp />
+      <Footer />
     </div>
   );
 }

@@ -1,0 +1,144 @@
+.MainDivisionn{
+    height:35rem;
+    width: 100%;
+    background: linear-gradient(81deg, #E7F0FF 9.01%, rgba(232, 241, 255, 0.47) 89.11%);
+    position: relative;
+    top: 100rem;
+
+}
+.subMain{
+    width: 72.6rem;
+    height: 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imageSubMain{
+    width: 31.5rem;
+    height: 31.4rem;
+    position: relative;
+    top: -25rem;
+    left: 20rem;
+}
+
+.imageStyling11{
+    width: 17.9rem !important;
+    height: 30.4rem !important;
+    object-fit:cover;
+    object-position: 50%;
+    clip-path: inset(30px 40px 30px 40px round 22px);
+    transform: scale(1.38) translate(0, 5%);
+    position:relative;
+    top: 33.1rem;
+    left: 1px;
+    z-index: 0;
+}
+.imageStyling22{
+    width: 18.9rem!important;
+    height: 31.4rem !important;
+    z-index: 33!important;
+}
+.imageStyling31{
+    width: 17.9rem !important;
+    height: 30.4rem !important;
+    object-fit:cover;
+    object-position: 50%;
+    clip-path: inset(30px 40px 30px 40px round 22px);
+    transform: scale(1.3) translate(0, 5%);
+    position:relative;
+    top: 35rem;
+    left: 1px;
+    z-index: 0;
+}
+.imageStyling42{
+    width: 18.9rem!important;
+    height: 31.4rem !important;
+    z-index: 33!important;
+    transform: scale(0.9) translate(0, 5%);
+}
+.imageSubMain1{
+    width: 31.5rem;
+    height: 31.4rem;
+    position: relative;
+    top: -23rem;
+    left: -10rem;
+}
+.arrowStyling{
+   position: relative;
+   left: 0rem;
+   top: 2rem;
+}
+.MAinSectionImp{
+    display: grid;
+    gap: 1rem;
+    position: relative;
+    top: 5rem;
+    left: 3rem;
+}
+.WholedivSection{
+    color: #1B3C74;
+    font-family: 'Poppins',sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 67px;
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.spanStylingg{
+    color: #2AA7FF;
+    
+}
+.inputSectionb{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 0.7rem;
+    color: #414146;
+    font-family: 'Lato',sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    
+}
+.inputWorking{
+    display: flex;
+    gap: 2rem;
+}
+.inputWorking{
+    height: 3.125rem !important;
+    width: 27rem !important;
+   
+}
+.ButtonStylingg{
+    border: none;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    width: 7.6rem;
+    border-radius: 0.5rem;
+    color: #FFFFFF;
+    background: #2AA8FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.lastClassfinally{
+    display: flex;
+    gap: 1.5rem;
+    position: relative;
+    top: 1rem;
+}
+.linkStyling{
+    width: 224px;
+    height: 69px;
+
+
+}
